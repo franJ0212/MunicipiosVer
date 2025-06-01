@@ -1,0 +1,29 @@
+Fuentes de Información
+
+La construcción de los indicadores se fundamenta en información estadística, administrativa y geoespacial recopilada entre los años 2019 y 2022. Las fuentes utilizadas abarcan tanto registros oficiales como herramientas tecnológicas complementarias. Las principales fuentes son:
+
+Información recolectada de:
+
+- INEGI:
+  - Censo Económico 2019.
+  - Censo de Población y Vivienda 2020.
+  - Censos Nacionales de Gobiernos Municipales y Demarcaciones Territoriales de la Ciudad de México (2021 y 2022).
+
+- CONEVAL:
+  - Pobreza a nivel municipal 2010–2020.
+  - Índice de Rezago Social 2020.
+
+- IEGEMC:
+  - Información Estadística y Geográfica de los Estados para México en Cifras.
+
+- Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (SESNSP):
+  - Estadísticas sobre incidencia delictiva y delitos de alto impacto (2020).
+
+- CONAPO:
+  - Índice de Marginación 2020.
+
+- API de Google:
+  - Geolocalización y conteo de **lugares turísticos**, **infraestructura policial**, **restaurantes** y **hoteles** con base en coordenadas municipales.
+
+- Cálculos propios:
+  - Procesamiento, integración y estandarización de datos provenientes de múltiples fuentes, utilizando criterios metodológicos replicables.

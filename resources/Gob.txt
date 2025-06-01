@@ -1,0 +1,31 @@
+Gobernanza  
+1 = mejor, 0 = peor.  
+Este indicador evalúa la calidad institucional, el cumplimiento normativo y la eficacia de la administración pública municipal. Se compone de cinco dimensiones construidas mediante técnicas de optimización factorial (minimización de correlación entre dimensiones):
+
+1. Transparencia Contable  
+Mide el grado de cumplimiento en la publicación de información financiera y procesos de contratación pública:
+- PorContLici: porcentaje de contratos adjudicados por licitación pública.  
+- PorContAdjD: porcentaje de contratos por adjudicación directa.  
+- PorContAdjR: porcentaje de contratos por adjudicación restringida.
+
+2. Regulaciones  
+Evalúa la existencia y aplicación de mecanismos institucionales de control y planificación:
+- PlanAnticorrupcion: existencia de un plan formal contra la corrupción.  
+- ReguContratos: existencia y uso de normativas en contrataciones.  
+- Sis_Test_cont: presencia de sistemas de testeo y verificación contable.
+
+3. Sanciones  
+Captura la capacidad del municipio para sancionar malas prácticas administrativas:
+- SPsancionados: número de servidores públicos sancionados por faltas administrativas.  
+- DelAdmPub: número de delitos del ámbito de la administración pública registrados.
+
+4. Actividad Gubernamental  
+Refleja el dinamismo y acción institucional de la administración municipal:
+- MovilidadAcc: medidas o estrategias para la movilidad y el acceso ciudadano.  
+- AccionesAdm: número de acciones administrativas ejecutadas por el municipio.  
+- SolAten: número de solicitudes ciudadanas atendidas.  
+- ConsejoUrbano: existencia y funcionamiento de un consejo urbano o análogo.
+
+5. Cabildo Activo  
+Mide la operatividad y transparencia del órgano colegiado de gobierno:
+- IniCabildo: número de iniciativas registradas y discutidas en sesiones de cabildo.

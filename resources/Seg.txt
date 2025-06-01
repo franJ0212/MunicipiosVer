@@ -1,0 +1,29 @@
+Seguridad  
+1 = mejor, 0 = peor.  
+El indicador de seguridad evalúa la situación de orden público, la respuesta institucional y los efectos sociales de la violencia. Se compone de cinco dimensiones derivadas del análisis factorial:
+
+1. Incidencia Delictiva  
+Captura la frecuencia de delitos reportados por la población:
+- Delitos: tasa total de delitos registrados por cada 100,000 habitantes.  
+- DelMed: tasa de delitos de mediana gravedad.  
+- DelGenFa: tasa de delitos generales o familiares.  
+- DelGraves: tasa de delitos graves que no califican como de alto impacto.
+
+2. Presencia Policial  
+Representa la capacidad institucional de vigilancia y control:
+- EstPolicial: número de estaciones de policía operativas.  
+- PerSeguridad: personal asignado a funciones de seguridad pública.
+
+3. Migración por Inseguridad  
+Evalúa la movilidad poblacional forzada por violencia:
+- PorMigrSeg: porcentaje de población que ha migrado por motivos de inseguridad.
+
+4. Presupuesto de Seguridad  
+Refleja el esfuerzo financiero municipal en seguridad:
+- PreSeg: proporción del presupuesto municipal destinado a seguridad pública.
+
+5. Delitos de Alto Impacto  
+Concentra los delitos más graves con alta repercusión social:
+- DelSex: tasa de delitos sexuales.  
+- DelGraves: (también carga aquí) delitos con mayor severidad jurídica.  
+- DelGenFa: (también carga aquí) cuando se combinan con consecuencias severas.  

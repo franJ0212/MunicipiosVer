@@ -1,0 +1,42 @@
+Educación  
+1 = mejor, 0 = peor.  
+El indicador educativo evalúa el acceso, permanencia, aprovechamiento y equidad en el sistema educativo municipal. Está compuesto por seis dimensiones derivadas de un análisis factorial sobre variables estructurales y de resultados:
+
+1. Cobertura en Educación Básica (EDB)  
+Evalúa la infraestructura educativa disponible y su distribución:
+- Escuelas_Prim: número de escuelas de nivel primaria.  
+- Escuelas_Sec: número de escuelas de nivel secundaria.  
+- Escuelas_Press: número de planteles del subsistema de telesecundarias o similares.  
+- DemXEsc_Prim: demanda por escuela primaria.  
+- DemXEsc_Sec: demanda por escuela secundaria.  
+- DemXEsc_Press: demanda por escuela del tipo telesecundaria o equivalente.  
+
+2. Educación Plena  
+Captura la alfabetización total y la culminación de ciclos educativos:
+- ANALF: proporción de población analfabeta.  
+- ANALF14: proporción de población de 14 años analfabeta.  
+
+3. Consumo del Rezago Educativo  
+Explica la superación del rezago mediante mecanismos compensatorios:
+- PorSinEduBas15: porcentaje de población mayor de 15 años sin educación básica.  
+- PorRezEdu: porcentaje de población en situación de rezago educativo.
+
+4. Asistencia en Educación Básica (EDB)  
+Mide la permanencia escolar efectiva:
+- TasNAsistencia5: tasa de no asistencia a los 5 años.  
+- TasNAsistencia12: tasa de no asistencia a los 12 años.  
+- TasNAsistencia15: tasa de no asistencia a los 15 años.  
+- TasNAsistencia18: tasa de no asistencia a los 18 años.
+
+5. Cobertura en Educación Media Superior (EMS)  
+Representa el acceso y condiciones del nivel medio superior:
+- Escuelas_Bachi: número de escuelas de nivel bachillerato.  
+- DemXEsc_Bachi: demanda por escuela de nivel bachillerato.  
+
+6. Educandos  
+Síntesis de estudiantes en el sistema educativo formal:
+- PorEducandos: proporción de población registrada como estudiante en cualquier nivel.  
+- AlumXDocente_Prim: relación alumno-docente en primaria.  
+- AlumXDocente_Sec: relación alumno-docente en secundaria.  
+- AlumXDocente_Bachi: relación alumno-docente en bachillerato.  
+- AlumXDocente_Press: relación alumno-docente en telesecundarias.

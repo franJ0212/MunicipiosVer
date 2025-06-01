@@ -1,0 +1,31 @@
+Economía
+1 = mejor, 0 = peor.
+El indicador económico refleja el desempeño estructural y dinámico del municipio en términos de producción, participación, movilidad y acumulación económica. Este indicador se compone de cinco dimensiones obtenidas mediante análisis factorial:
+
+1. Actividad Económica
+Variables que explican la magnitud y eficiencia del aparato productivo local:
+ProdBrutaM: producción bruta total del municipio (valor total de bienes y servicios producidos).
+ValorAgregadoM: valor neto creado en el proceso productivo (valor agregado monetario).
+ConsumoIntermedioM: insumos consumidos en el proceso productivo, sin ser parte del producto final.
+RemuneracionesM: suma de sueldos, salarios y otras compensaciones al trabajo.
+Saldo: diferencia entre ingresos y egresos municipales.
+SaldoXBySM: saldo ajustado por el tamaño de la estructura municipal.
+UniEco: número de unidades económicas registradas.
+
+2. Turismo
+Dimensión asociada a la infraestructura de servicios turísticos:
+UniHot: unidades económicas dedicadas al hospedaje.
+UniTur: unidades dedicadas a actividades turísticas recreativas.
+UniRest: unidades económicas dedicadas a la preparación y venta de alimentos.
+
+3. Participación Económica Poblacional
+Captura el grado de involucramiento activo de la población en la economía:
+PartEcono: proporción de la población económicamente activa sobre la población total.
+
+4. Migración Laboral
+Representa el movimiento poblacional motivado por razones económicas:
+PorMigTrabajo: proporción de migración declarada con causa laboral.
+
+5. Inversión Productiva
+Mide la capacidad del municipio para atraer y movilizar inversión:
+InversionM: inversión pública o privada dirigida a actividades económicas productivas.

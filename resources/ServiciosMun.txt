@@ -1,0 +1,22 @@
+Servicios Municipales  
+1 = mejor, 0 = peor.  
+Este indicador evalúa la provisión, cobertura y capacidad operativa de los servicios públicos ofrecidos por el municipio. Se compone de cuatro dimensiones extraídas mediante análisis factorial:
+
+1. Gestión de Residuos  
+Evalúa la eficiencia en la recolección y tratamiento de desechos sólidos:
+- ResiduosDiarios: volumen promedio diario de residuos sólidos generados y recolectados.  
+- PersRecol: personal operativo dedicado a tareas de recolección.  
+- VehRecol: número de unidades vehiculares destinadas a la recolección de residuos.  
+- PorCSeRecol: porcentaje de la superficie urbana cubierta por servicios de recolección.
+
+2. Infraestructura Funeraria  
+Representa la capacidad instalada para servicios funerarios públicos:
+- UniFunerarias: número de unidades funerarias operativas bajo gestión municipal.
+
+3. Extracción de Agua  
+Mide la capacidad técnica y física para la provisión de agua:
+- ExtraAgua: volumen de extracción de agua para consumo humano por parte del municipio.
+
+4. Iluminación Pública  
+Evalúa la cobertura del sistema de alumbrado público:
+- Luminarias: número total de luminarias en funcionamiento dentro del espacio urbano.

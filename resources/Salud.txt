@@ -1,0 +1,28 @@
+Salud  
+1 = mejor, 0 = peor.  
+El indicador de salud evalúa el acceso, disponibilidad y resultados de los servicios médicos y condiciones sanitarias del municipio. Se compone de cinco dimensiones derivadas del análisis factorial:
+
+1. Consultorios Médicos Primarios  
+Evalúa la infraestructura básica de salud disponible para atención inicial:
+- UM: unidades médicas generales o de primer contacto.  
+- Consultorios: número total de consultorios disponibles en el municipio.  
+- Scasa: porcentaje de población sin acceso a servicios de salud por escasez o lejanía.
+
+2. Consultorios Médicos Especializados  
+Evalúa la oferta de servicios hospitalarios y consultas de especialidad:
+- PerMed: número de médicos especialistas registrados.  
+- Hospitalizacion: existencia y capacidad de unidades hospitalarias.  
+- ConsExt: consultas externas proporcionadas por unidades médicas especializadas.
+
+3. Acceso a Servicios de Salud  
+Captura el acceso efectivo de la población a cobertura sanitaria institucional:
+- AfilSM: porcentaje de personas afiliadas a servicios médicos públicos.  
+- PobrXSS: proporción de población en pobreza sin seguridad social.
+
+4. Defunciones Generales  
+Indicador de resultado en salud relacionado con mortalidad:
+- Defunciones: tasa general de defunciones por cada 1,000 habitantes.
+
+5. Mortalidad Infantil  
+Resultado crítico que refleja el estado de la niñez y la atención prenatal:
+- HijosFall: tasa de fallecimientos en menores de un año por cada 1,000 nacidos vivos.

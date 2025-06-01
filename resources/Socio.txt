@@ -1,0 +1,37 @@
+Socioeconómico  
+1 = mejor, 0 = peor.  
+Este indicador sintetiza las condiciones de vida materiales, el acceso a satisfactores esenciales y la situación de pobreza o vulnerabilidad de la población. Está compuesto por cuatro dimensiones obtenidas mediante análisis factorial:
+
+1. Pobreza y Vulnerabilidad Socioeconómica  
+Refleja las condiciones generales de pobreza e inseguridad económica:
+- PorPobreza: porcentaje de población en situación de pobreza moderada.  
+- PorPobrezaEXT: porcentaje de población en pobreza extrema.  
+- PorVulPobreza: población vulnerable por ingresos, sin cumplir criterios de pobreza multidimensional.  
+- PorVulPobrezaEXT: población vulnerable en zonas de pobreza extrema.  
+- PorHacinamiento: porcentaje de hogares con más de 2.5 personas por dormitorio.  
+- PorSinVehicul: hogares sin vehículo motorizado.  
+- PorCarenciaCalidadViv: hogares con deficiencias en materiales de construcción.  
+- PorVivSinLavadora: hogares sin lavadora.  
+- PorVivSinRefrigerador: hogares sin refrigerador.
+
+2. Calidad de Vivienda  
+Evalúa los componentes físicos de la vivienda que permiten condiciones dignas:
+- PorVivPisoTierra: viviendas con piso de tierra.  
+- PorCarenciaServBasicos: viviendas sin acceso a servicios básicos (agua, drenaje, electricidad).  
+- PorVivSinDrenaje: viviendas sin conexión a red de drenaje.  
+- PorCarenciaCalidadViv: (también carga aquí) condición estructural deficiente.  
+- PorVivSinEnerElect: viviendas sin electricidad.  
+
+3. Rezago Social  
+Síntesis de privaciones múltiples que impiden el ejercicio pleno de derechos:
+- PorVulSegSocial: población vulnerable sin acceso a seguridad social.  
+- PorVul3carencias: personas con al menos tres carencias sociales.  
+- PorSinCompTabLap: hogares sin computadora o tablet.  
+- PorSinInternet: hogares sin acceso a internet.  
+- PorSinTel: hogares sin línea telefónica fija.  
+- PorPob2SalMin: población con ingreso menor a dos salarios mínimos.  
+
+4. Carencias Básicas  
+Privaciones fundamentales asociadas a necesidades no satisfechas:
+- PorAlimento: hogares con inseguridad alimentaria moderada o severa.  
+- PorSinTele: hogares sin televisor.  
